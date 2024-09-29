@@ -1,4 +1,4 @@
-alert("JOURNEY MAPPERs.")
+alert("Welcome To The Trip Track (Plan,spend,Enjoy)")
 //1
 const balance = document.getElementById(
     "balance"
@@ -128,6 +128,9 @@ const balance = document.getElementById(
     updateValues();
   }
   
-  Init();
+  // Init();
   
   form.addEventListener('submit',addTransaction);
+
+  
+
