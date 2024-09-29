@@ -6,8 +6,8 @@
     box-sizing: border-box;
   }
   *{
-    margin: 0;
-    padding: 0;
+    margin: 10;
+    padding: 10;
     box-sizing: border-box;
   }
   @font-face {
@@ -21,13 +21,13 @@
   
   body{
     
-    background-image: url(image2.webp);
+    background-image: url(image420.jpeg);
     
     background-repeat: no-repeat;
     background-position: 0;
     background-attachment: fixed;
     background-size: cover;
-    background-color: #f8f9fa;
+    background-color: #b3a8cb;
     display: flex;
     flex-direction: column;
   
@@ -70,7 +70,7 @@
   }
   
   .inc-exp-container {
-    background-color: #fff;
+    background-color: #4f3131;
     box-shadow: var(--box--shadow);
     padding: 20px;
     display: flex;
@@ -175,7 +175,7 @@
     color: #fff;
     font-size: 20px;
     line-height: 20px;
-    padding: 2px 5px;
+    padding: 09px 10px;
     position: absolute;
     top: 50%;
     left: 0;
